@@ -1,4 +1,5 @@
-# DSAN 6750 / PPOL 6805: Geographic Information Systems
-## Georgetown University, Fall 2024
+# DSAN 6750 Homepage Forwarding
 
-This repo exists **solely to redirect web requests** from <a href='https://jjacobs.me/ppol6805' target='_blank'>https://jjacobs.me/ppol6805</a> to <a href='https://jjacobs.me/dsan6750' target='_blank'>https://jjacobs.me/dsan6750</a>. So, please **do not** star/use this repo; use the <a href='https://github.com/jpowerj/dsan6750' target='_blank'>DSAN6750 repo</a> instead!
+This repo just hosts a single `index.html` file which ensures that the URL [`https://jjacobs.me/dsan6750`](https://jjacobs.me/dsan6750) automatically fowards to the main course webpage for PPOL 6805, which you can find at the following link:
+
+[https://jjacobs.me/ppol6805](https://jjacobs.me/ppol6805)
